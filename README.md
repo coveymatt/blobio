@@ -5,6 +5,18 @@
     Blobio
     An experiment in emergent behavior.
 
+🎮 **Play Now**
+https://coveymatt.github.io/blobio/
+
+[![Play Blobio](docs/screenshot.png)](https://coveymatt.github.io/blobio/)
+
+No weapons.
+No classes.
+No scripted abilities.
+
+Push. Pull. Grow.
+Everything else emerges.
+
 Blobio is a browser-based multiplayer game exploring how complex
 behavior can emerge from a handful of simple rules.
 
